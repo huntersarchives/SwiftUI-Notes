@@ -9,5 +9,3 @@ This is a collection of notes, tips, or code that I found useful while learning 
 - Best practice implementations
 - Layout techniques
 - Tips
-
-### 12/4/2025
