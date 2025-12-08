@@ -1,11 +1,13 @@
 #set text(font: "Times New Roman")
+#align(center, [= MISC NOTES])
 #align(center, [Hunter Weisenbach])
 \
 \
+In Xcode you can use your OWN iPhone as a simulator not only by usb but if they are on the same wireless you can do it wirelessly.
 
-#align(center, [== Introduction to SwiftUI])
 
-The first page of notes will be from the book [Thinking in SwiftUI] by Chris Eidhof and Florian Kugler.
+
+
 
 
 
