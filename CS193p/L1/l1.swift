@@ -1,7 +1,12 @@
-// Swift testing file
-// Closure expression assigned to a variable
-let multiplyAddition{ (a: Int, b: Int, c: Int) -> Int in 
-    return a + b * c
+let vegetable = "red pepper"
+switch vegetable {
+case "celery":
+    print("Add some raisins and make ants on a log.")
+case "cucumber", "watercress":
+    print("That would make a good tea sandwich.")
+case let x where x.hasSuffix("pepper"):
+    print("Is it a spicy \(x)?")
+default:
+    print("Everything tastes good in soup.")
 }
-
-print(multiplyAddition(2, 3, 4))// Returns 14
+// Prints "Is it a spicy red pepper?"
