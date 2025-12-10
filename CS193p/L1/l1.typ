@@ -49,7 +49,9 @@ print(counter()) // 2
 ```
 \
 \
-```map```
+``` map ```takes  each element of an array and applies what is in the closure  { } to it.  ```$0``` is shorthand for the first argument passed into the closure. 
+
+``` struct ```is a value type while ``` class ```is a reference type. Changes in ``` struct ```instance do not affect other instances while changes in ``` class ```instances do affect other instances that reference the same class instance.
 
 Delivering a clear developer experience is defined mostly by the names and idioms that appear in the APIs. 
 
